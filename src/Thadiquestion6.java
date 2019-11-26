@@ -18,6 +18,7 @@ public class Thadiquestion6 {
 			i++;
 		}
 		
+		
 		int max = intArray[0];
 		int min = intArray[0];
 		for(i = 1; i<length; i++){
